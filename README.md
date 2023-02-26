@@ -7,7 +7,6 @@ pm2 start index.js --name=chat_bot
 Parar aplicação
 pm2 stop chat_bot
 
-
 Atualizar projeto
 git pull
 
